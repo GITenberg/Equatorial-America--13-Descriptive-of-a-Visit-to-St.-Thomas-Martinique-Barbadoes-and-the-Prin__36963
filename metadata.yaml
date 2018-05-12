@@ -1,0 +1,37 @@
+_repo: Equatorial-America--13-Descriptive-of-a-Visit-to-St.-Thomas-Martinique-Barbadoes-and-the-Prin__36963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Forester, Frank
+    - Murray, Lieutenant
+    - Ballou, M. M. (Maturin Murray)
+    - Ballou, Maturin M. (Maturin Murray)
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36963'
+  lccn: 01021678
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antilles, Lesser -- Description and travel'
+- !lcc 'F2201'
+- !lcsh 'South America -- Description and travel'
+- !lcsh 'West Indies -- Description and travel'
+title: "Equatorial America\r\nDescriptive of a Visit to St. Thomas, Martinique, Barbadoes,\
+  \ and the Principal Capitals of South America"
+url: http://www.gutenberg.org/ebooks/36963
